@@ -10,7 +10,7 @@ Please use [issues](https://gitlab.com/gitlab-com/www-gitlab-com/issues) to ask 
 
 ## Company
 
-* [About GitLab](/company/)
+* [About OpenClassrooms](/company/)
   * [History](/company/history/)
 * [Values](/handbook/values/)
 * [Communication](/handbook/communication/)
